@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Universe 7: Anime Textures",
+    "description": "Bright Dragon Ball-style 128x128 textures for vanilla Minecraft.",
+    "uuid": "8a2692a8-69c0-46e2-9d3b-352fe52723f3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "0b617e42-000f-436b-81bc-eeb746240c8c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

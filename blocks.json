@@ -1,0 +1,49 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "dbz:capsule_floor": {
+    "sound": "stone"
+  },
+  "dbz:capsule_wall": {
+    "sound": "stone"
+  },
+  "dbz:lookout_tile": {
+    "sound": "stone"
+  },
+  "dbz:time_chamber_floor": {
+    "sound": "stone"
+  },
+  "dbz:namek_grass": {
+    "sound": "grass"
+  },
+  "dbz:namek_dirt": {
+    "sound": "gravel"
+  },
+  "dbz:namek_stone": {
+    "sound": "stone"
+  },
+  "dbz:cracked_ground": {
+    "sound": "gravel"
+  },
+  "dbz:kame_house_wood": {
+    "sound": "wood"
+  },
+  "dbz:kame_house_wall": {
+    "sound": "wood"
+  },
+  "dbz:king_kai_grass": {
+    "sound": "grass"
+  },
+  "dbz:king_kai_dirt": {
+    "sound": "gravel"
+  },
+  "dbz:wasteland_stone": {
+    "sound": "stone"
+  },
+  "dbz:shenron_altar": {
+    "sound": "stone"
+  }
+}

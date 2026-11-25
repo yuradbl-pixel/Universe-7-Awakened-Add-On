@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35390354/README.md)
 # Universe 7: Awakened Add-On - source (v1.55)
 
 DBZ_BP/                Behavior pack: manifest, items, blocks, entities, recipes, loot tables,
